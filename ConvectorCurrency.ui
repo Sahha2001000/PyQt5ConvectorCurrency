@@ -234,7 +234,7 @@ QPushButton:pressed{
      <set>Qt::AlignCenter</set>
     </property>
    </widget>
-   <widget class="QLineEdit" name="outputAmount">
+   <widget class="QLineEdit" name="outputCurrency">
     <property name="geometry">
      <rect>
       <x>60</x>
@@ -290,7 +290,7 @@ border-radius: 30;</string>
      <set>Qt::AlignCenter</set>
     </property>
    </widget>
-   <widget class="QLineEdit" name="outputCurrency">
+   <widget class="QLineEdit" name="outputAmount">
     <property name="geometry">
      <rect>
       <x>60</x>
